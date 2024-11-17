@@ -1,4 +1,5 @@
 {
+  "name": "custom_theme",
     "sections": {
       "template-404": {
         "type": "example-404",
