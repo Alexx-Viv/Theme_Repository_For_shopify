@@ -1,0 +1,13 @@
+{
+    "sections": {
+      "template-404": {
+        "type": "example-404",
+        "settings": {
+          "custom_attribute": "hello"
+        }
+      }
+    },
+    "order": [
+      "template-404"
+    ]
+  }
