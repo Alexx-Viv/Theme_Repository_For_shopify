@@ -1,0 +1,9 @@
+{
+    "sections": {
+      "optin-section": {
+        "type": "optin-form",
+        "settings": {}
+      }
+    },
+    "order": ["optin-section"]
+  }
